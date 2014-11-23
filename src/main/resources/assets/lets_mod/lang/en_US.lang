@@ -1,0 +1,17 @@
+#Keys
+
+keys.lets_mod.category=Let's Mod
+keys.lets_mod.charge=Charge
+keys.lets_mod.release=Release
+
+#Items
+
+item.lets_mod:germanFlag.name=The German Flag
+
+#Blocks
+
+tile.lets_mod:chocolate.name=Block of Chocolate
+
+#Creative Tabs
+
+itemGroup.lets_mod=Let's Mod
